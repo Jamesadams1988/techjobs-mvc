@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\lc101\TechJobsMVC2\bin\Debug\netcoreapp2.0\TechJobsMVC2.deps.json
+C:\Users\James\Desktop\lc101\TechJobsMVC2\bin\Debug\netcoreapp2.0\TechJobsMVC2.runtimeconfig.json
+C:\Users\James\Desktop\lc101\TechJobsMVC2\bin\Debug\netcoreapp2.0\TechJobsMVC2.runtimeconfig.dev.json
+C:\Users\James\Desktop\lc101\TechJobsMVC2\bin\Debug\netcoreapp2.0\TechJobsMVC2.dll
+C:\Users\James\Desktop\lc101\TechJobsMVC2\bin\Debug\netcoreapp2.0\TechJobsMVC2.pdb
+C:\Users\James\Desktop\lc101\TechJobsMVC2\obj\Debug\netcoreapp2.0\TechJobsMVC2.csprojAssemblyReference.cache
+C:\Users\James\Desktop\lc101\TechJobsMVC2\obj\Debug\netcoreapp2.0\TechJobsMVC2.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\lc101\TechJobsMVC2\obj\Debug\netcoreapp2.0\TechJobsMVC2.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\lc101\TechJobsMVC2\obj\Debug\netcoreapp2.0\TechJobsMVC2.AssemblyInfo.cs
+C:\Users\James\Desktop\lc101\TechJobsMVC2\obj\Debug\netcoreapp2.0\TechJobsMVC2.dll
+C:\Users\James\Desktop\lc101\TechJobsMVC2\obj\Debug\netcoreapp2.0\TechJobsMVC2.pdb
